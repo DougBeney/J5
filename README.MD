@@ -1,4 +1,4 @@
-![J5 Logo](/static/img/favicon.png =50x)
+![J5 Logo](/static/img/favicon.png =50x50)
 
 # J5 -  A Jekyll, Pug, Sass, and Livereload HTML5 Boilerplate
 

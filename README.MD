@@ -1,4 +1,4 @@
-<img src="/static/img/favicon.png" style="width: 100px; height: auto;"/>
+<img src="/static/img/favicon.png" width="100"/>
 
 # J5 -  A Jekyll, Pug, Sass, and Livereload HTML5 Boilerplate
 

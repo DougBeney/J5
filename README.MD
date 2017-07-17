@@ -1,6 +1,6 @@
 ![J5 Logo](/static/img/favicon.png)
 
-# J5 -  A Jekyll, Pug, Sass, and Livereload Boilerplate
+# J5 -  A Jekyll, Pug, Sass, and Livereload HTML5 Boilerplate
 
 ## How To Install:
 

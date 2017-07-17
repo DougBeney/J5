@@ -1,6 +1,7 @@
-![J5 Logo](/static/img/favicon.png =50x50)
+<img src="/static/img/favicon.png" style="width: 100px; height: auto;"/>
 
 # J5 -  A Jekyll, Pug, Sass, and Livereload HTML5 Boilerplate
+
 
 ## How To Install:
 

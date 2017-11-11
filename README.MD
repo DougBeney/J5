@@ -14,13 +14,9 @@
 Type the command `bundle exec jekyll serve` or simply `jekyll serve`.
 
 
-## Project Structure
+## Sass Tip
 
-- **(root directory)** - In your root directory, you can create pages like regular. You can also create Pug pages - just make sure you add YAML front-matter or Pug won't be rendered
-- **_layouts** - In this folder you can add your layouts like usual. Pug is supported. Unlike in your root directory, you do not need to provide YAML front-matter with Pug layouts.
-- **static** - The static folder is meant for css, js, and images. The css folder supports sass files by default.
-
-**Jekyll Tip**: If you include a `_` in front of a filename (ex. `_navBar.sass`), Jekyll will not compile that file in your `_site` folder. As you can see normalize.css has an underscore before its filename, since it is not needed in the build, as it is already imported in the main sass file. I recommend prepending an underscore to all of your sass includes - but of course not your main sass file.
+If you include a `_` in front of a filename (ex. `_navBar.sass`), Jekyll will not compile that file in your `_site` folder. As you can see normalize.css has an underscore before its filename, since it is not needed in the build, as it is already imported in the main sass file. I recommend prepending an underscore to all of your sass includes - but of course not your main sass file.
 
 ## Jekyll Plugins Used
 

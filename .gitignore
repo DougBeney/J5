@@ -1,4 +1,4 @@
 .sass-cache/
 dist/*
-!dist/
+!dist/.keep
 Gemfile.lock
